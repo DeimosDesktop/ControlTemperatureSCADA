@@ -13,3 +13,5 @@ El programa servidor_meteorologico.py servirá para conectar el circuito de Ardu
 Con el archivo mainInMiddle.py, haremos lo propio, pero cuando se conecte la placa Arduino UNO Q a través de Arduino APP Lab, podremos enviar al sistema SCADA un dato falso en lugar del real.
 Para activar el dato falso, aplicaremos el programa de la forma:
 manInMiddle.py --ataque.
+El circuito eléctrico simulado lo puedes encontrar en tinkedcad:
+https://www.tinkercad.com/things/0iuJOBnyxTn-control-de-temperaturas
