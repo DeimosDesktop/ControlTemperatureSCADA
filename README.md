@@ -14,4 +14,5 @@ Con el archivo mainInMiddle.py, haremos lo propio, pero cuando se conecte la pla
 Para activar el dato falso, aplicaremos el programa de la forma:
 manInMiddle.py --ataque.
 El circuito eléctrico simulado lo puedes encontrar en tinkedcad:
-https://www.tinkercad.com/things/0iuJOBnyxTn-control-de-temperaturas
+https://www.tinkercad.com/things/0iuJOBnyxTn-control-de-temperaturas.
+El Archivo Visor de temperaturas.zip es el proyecto en la Arduino UNO Q, que simulará la recepción de los datos y los mostrará por la pantalla del ordenador.
